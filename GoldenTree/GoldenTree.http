@@ -1,0 +1,6 @@
+@GoldenTree_HostAddress = http://localhost:5064
+
+GET {{GoldenTree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
